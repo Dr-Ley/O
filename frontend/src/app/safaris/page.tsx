@@ -21,7 +21,7 @@ export default async function SafarisPage() {
         eyebrow="Itineraries"
         title="Safari packages, shaped as starting points."
         text="Filter by destination, length, accommodation and style. Submit an enquiry for prices and we will get back to you within 2 hours."
-        image="/images/safari/migration.png"
+        image="/images/wildlife/zebras.png"
         alt="Wildebeest herd on the move"
       />
       <Container className="py-10">

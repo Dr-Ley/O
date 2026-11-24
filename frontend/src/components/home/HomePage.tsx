@@ -215,7 +215,7 @@ export function HomePage({ packages }: { packages: SafariPackage[] }) {
         />
       <ScrollReplayVideo
         src="/videos/leo.mp4"
-        poster="/images/wildlife/leo-silhoettejpg.jpg"
+        poster="/images/wildlife/leo_silhoettejpg.jpg"
         delayMs={10000}
         className="absolute inset-0 h-full w-full object-cover motion-reduce:hidden"
       />
